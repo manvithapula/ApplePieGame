@@ -13,7 +13,7 @@ This project is a guided exercise from the Swift Fundamentals book, developed us
 
 ## **Technologies Used and Prerequisites**
 
-Language: Swift
+**Language:** Swift
 
 **IDE:** Xcode 15
 
