@@ -3,29 +3,31 @@ This project is a guided exercise from the Swift Fundamentals book, developed us
 
 ## **Features**
 
-Word Guessing: Players guess letters to complete a hidden word.
+**Word Guessing:** Players guess letters to complete a hidden word.
 
-Limited Attempts: Players have a set number of incorrect guesses (represented by a visual apple ) before losing the game.
+**Limited Attempts:** Players have a set number of incorrect guesses (represented by a visual apple ) before losing the game.
 
-Interactive UI: Provides real-time feedback on correct and incorrect guesses.
+**Interactive UI:** Provides real-time feedback on correct and incorrect guesses.
 
-Predefined Word List: The game selects words from a predefined list for players to guess.
+**Predefined Word List:** The game selects words from a predefined list for players to guess.
 
 ## **Technologies Used and Prerequisites**
 
 Language: Swift
 
-IDE: Xcode 15
+**IDE:** Xcode 15
 
-Frameworks: UIKit
+**Frameworks:** UIKit
 
-macOS with a Swift development environment
+**macOS with a Swift development environment** 
 
 ## **Project Structure**
 
-Model: Manages the game's logic, including guessing mechanics and tracking incorrect guesses.
-ViewController: Handles user interactions and updates the UI based on the game state.
-UI: Comprises simple buttons, labels, and images to create an interactive experience.
+**Model:** Manages the game's logic, including guessing mechanics and tracking incorrect guesses.
+
+**ViewController:** Handles user interactions and updates the UI based on the game state.
+
+**UI:**  Comprises simple buttons, labels, and images to create an interactive experience.
 
 ## **Installation**
 
